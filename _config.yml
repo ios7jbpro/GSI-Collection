@@ -17,3 +17,7 @@ author: ios7jbpro & lelenext
 
 # 提供下载 URL
 show_downloads: false
+
+# Hide "View on GitHub"
+github:
+  is_project_page: false
