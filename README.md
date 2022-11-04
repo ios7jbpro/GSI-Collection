@@ -1,5 +1,5 @@
-# GSI Collection | 通用系統映像合集
+# Tested GSIs for Redmi Note 8 Pro
 
-- Project has been moved to [*GitHub Pages*](https://lelenext.github.io/GSI-Collection/).
+- The site is on [*GitHub Pages*](https:/).
 
-  項目已遷移至 [*GitHub Pages*](https://lelenext.github.io/GSI-Collection/)。
+- This site is heavily based on [*lelenext's GSI Collection*](https://github.com/lelenext/GSI-Collection), all credits goes to him.
