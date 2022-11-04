@@ -2,7 +2,7 @@
 # Title 標題
 title: Thanks to...
 # Description 描述
-description:   
+description: The people who helped in this site
 # Layout 佈局
 layout: default
 ---
