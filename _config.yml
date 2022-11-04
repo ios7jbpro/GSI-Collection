@@ -7,13 +7,13 @@ theme: jekyll-theme-cayman
 # remote_theme: pages-themes/cayman@v0.2.0
 
 # Title 標題
-title: GSI Collection
+title: Tested GSIs for Redmi Note 8 Pro
 
 # Description 描述
-description: 通用系統映像合集
+description: Tested GSI Packages for codename begonia
 
 # Author 作者
-author: lelenext
+author: ios7jbpro & lelenext
 
 # 提供下载 URL
 show_downloads: false
