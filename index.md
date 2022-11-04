@@ -7,7 +7,7 @@ description: 通用系統映像合集
 layout: default
 ---
 
-¶ [Home](./) | [GSI List](./docs/dl-aoslevel.md) | [Thanks](./docs/thanks.md)
+¶ [Home](./) | [GSI List](./docs/dl-maintance.md) | [Thanks](./docs/thanks.md)
 ---
 
 Hello there.
