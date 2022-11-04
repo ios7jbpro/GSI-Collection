@@ -3,8 +3,7 @@
 # version: 0.4	Nov 2, 2022 11:38 AM
 
 # Theme 主題
-theme: jekyll-theme-cayman
-# remote_theme: pages-themes/cayman@v0.2.0
+theme: minima
 
 # Title 標題
 title: GSI Collection
