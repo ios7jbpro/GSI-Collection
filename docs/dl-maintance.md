@@ -8,4 +8,4 @@ layout: default
 ---
 
 
-[Return to home](./)
+[Return to home](https://ios7jbpro.github.io/GSI-Collection/)
