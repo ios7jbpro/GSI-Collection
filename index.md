@@ -2,7 +2,7 @@
 # Title 標題
 title: GSI Collection
 # Description 描述
-description: 通用系統映像合集
+description: Tested GSIs for codename begonia
 # Layout 佈局
 layout: default
 ---
