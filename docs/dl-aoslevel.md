@@ -7,7 +7,7 @@ description: Sort by Android Level
 layout: default
 ---
 
-¶ [Home](./) | [ROM List](./all-roms.md) | [GSI List](./dl-aoslevel.md) | [Thanks](./thanks.md) | [Changelog](./changelog.md)
+¶ [Home](./) | [GSI List](./dl-aoslevel.md) | [Thanks](./thanks.md)
 ---
 
 ---
