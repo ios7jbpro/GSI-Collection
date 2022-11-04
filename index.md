@@ -7,55 +7,45 @@ description: 通用系統映像合集
 layout: default
 ---
 
-¶ [Home](./) | [ROM List](./docs/all-roms.md) | [GSI List](./docs/dl-aoslevel.md) | [Thanks](./docs/thanks.md) | [Changelog](./docs/changelog.md)
+¶ [Home](./) | [GSI List](./docs/dl-aoslevel.md) | [Thanks](./docs/thanks.md)
 ---
 
-(｡･∀･)ﾉﾞHi~
+Hello there.
 
-What is this? | 這是什麽？
+What is this?
 ---
 
-- This is a project to collect GSI download link, you can choose a suitable GSI here for your Android device and flash it.
+- This is a project to collect GSIs for codename begonia, you can download and flash them here.
 
-  這是一個收集 GSI 下載地址的項目，您可以在此為您的設備挑選一個適合的 GSI 刷入。
-
-What is GSI? | 什麽是 GSI？
+What is GSI?
 ---
 
 - Generic System Image (GSI).
 
-  通用系統映像。
-
 - You can visit [Android Developers](https://developer.android.com/topic/generic-system-image) for more information about it. ^^
 
-  您可以訪問 [Android Developers](https://developer.android.com/topic/generic-system-image) 以獲取更多相關信息。^^
 
-GSI Naming Rules | GSI 命名規則
+How to flash a GSI?
 ---
 
-- **e.g. `exTHmUI`-`arm64`-`11.0`-`20211211`-`b` `v` `N`-`vndklite`-`other`.img**
+**Please be aware that these GSIs are only tested for codename begonia.**
 
-|  Name 名稱  | Info 詳情                                                    |
-| :---------: | ------------------------------------------------------------ |
-|  `exTHmUI`  | ROM name 「ROM 名稱」                                        |
-| **`arm64`** | **Device architecture 「設備處理器架構」<br>`arm64`: ARM 64-bit<br>`a64`: ARM 32-bit with 64-bit binder<br>`arm`: ARM 32-bit** |
-|   `11.0`    | ROM version 「ROM 版本」                                     |
-| `20211211`  | Build time 「編譯日期」                                      |
-|   **`b`**   | **`a`: A-only (system-as-system)<br>`b`: A/B (system-as-root)** |
-|   **`v`**   | **`v`: Vanilla (No GApps included) 「不包含谷歌服務套件」<br>`g`: GApps 「包含谷歌服務套件」<br>`o`: GApps Go 「Android Go 谷歌服務套件」<br>`f`: Foss (Free & open source apps instead GApps) 「使用開源應用代替 GApps」** |
-|   **`N`**   | **`N`: No superuser 「無超級使用者」<br/>`S`: Phh Superuser included 「包含超级使用者」<br/>`Z`: Dynamic superuser (Root can be enabled/disabled during use) 「動態超級使用者（Root 權限可隨時啟用/禁用）** |
-| `vndklite`  | `VNDKLite`/`Lite`: /system is read/write 「/system 分區可讀寫」 |
-|   `other`   | `secure`: Remove Superuser and spoof system props for passing SafetyNet 「移除超級使用者和欺騙系統以通過 SafetyNet 測試」 |
+1)Download GSI outside of the phone(like your pc, or sd card).
 
-How to flash GSI? | 如何刷入 GSI？ 
----
+2)Flash the STOCK fastboot ROM of your phone.
 
-- Download & install “Low Level Detector” from [GitHub](https://github.com/imknown/AndroidLowLevelDetector/releases) or [Google Play](https://play.google.com/store/apps/details?id=net.imknown.android.forefrontinfo);
+3)Flash TWRP(BRP recommended).
 
-  從 [GitHub](https://github.com/imknown/AndroidLowLevelDetector/releases) 或者 [Google Play](https://play.google.com/store/apps/details?id=net.imknown.android.forefrontinfo) 下載並安裝「底層探測器」；
+4)Wipe only system&data.
 
-  ![img](https://raw.githubusercontent.com/lelenext/GSI-Collection/main/pics/index/img_202211021211pm-lld.png)
+5)Unpack the zip file of GSI, you will find the image inside. 
 
-- Please make sure your devices have passed “Project Treble status” & “GSI compatibility”, then unlock Bootloader and use command `fastboot flash system gsi.img` to flash it. If your device is newer, please reboot to Fastbootd mode first.
+6)Copy the image to the phone.
 
-  請確保您的設備通過「Project Treble 狀態」和「GSI 兼容性」檢測，解鎖 Bootloader，使用 `fastboot flash system gsi.img` 指令刷入。如果您的設備較新，請先將設備重啟至 Fastbootd 模式。
+7)Go "Install" and tap "Install Image".
+
+8)Flash the image that you copied.
+
+9)Once it's done, patch vbmeta, and also disable recovery replace(from advanced menu of BRP).
+
+10)Reboot and hope that it boots fine.
