@@ -13,5 +13,5 @@ Thanks to...
 
 - [Begonia GSIs](https://t.me/android12begonia) for all tested GSIs
 
-[Return to home](./)
+[Return to home](https://ios7jbpro.github.io/GSI-Collection/)
 ---
