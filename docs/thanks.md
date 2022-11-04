@@ -1,3 +1,12 @@
+---
+# Title 標題
+title: Thanks to...
+# Description 描述
+description: 
+# Layout 佈局
+layout: default
+---
+
 Thanks to...
 ---
 - [lelenext](https://t.me/lelenext) for the base website
