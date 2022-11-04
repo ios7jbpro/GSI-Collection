@@ -1,0 +1,10 @@
+This file is here to show a pre-made guided table. You don't have to do anything with this file.
+
+
+| Maintainer<br> | Download<br> | Notes<br> | TG Post<br> |
+| :------------------: | :--------------: | :---------------------------------------: | :-------------------: |
+|                      |                  |                                           |                       |
+|                      |                  |                                           |                       |
+|                      |                  |                                           |                       |
+|                      |                  |                                           |                       |
+|                      |                  |                                           |                       |
