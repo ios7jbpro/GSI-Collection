@@ -7,7 +7,7 @@ description: Sort by Android Level
 layout: default
 ---
 
-¶ [Home](./) | [GSI List](./dl-aoslevel.md) | [Thanks](./thanks.md)
+¶ [Home](https://ios7jbpro.github.io/GSI-Collection/) | [GSI List](./dl-aoslevel.md) | [Thanks](./thanks.md)
 ---
 
 ---
