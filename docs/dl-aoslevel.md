@@ -18,12 +18,14 @@ Android 13 (API 33)
 | Maintainer<br> |       ROM       |                       Download<br>                       | Notes<br> |                    Changelog<br>                     |
 | :------------------: | :-------------: | :----------------------------------------------------------: | :---------------------------------------: | :----------------------------------------------------------: |
 |      *Lynix*       |   **YAAP**   | [*v13*](https://gigenet.dl.sourceforge.net/project/lynixgsiprojects/A13/YAAP/01112022/YAAP-A13-ARM64-bvN.img.xz) |   - Requires GPU rendering to fix lags, has GMS sandboxed, **do not flash GApps!**   |               [*TG*](https://t.me/android12begonia/1438)               |
-|      *Attila*      |   **PixyOS** | [*v12.1*](https://drive.google.com/uc?id=13MH0TkpWGNKFJcUvZfuBn0tHgzp0vSvS&export=download) | - Use default fixes from the channel  | [*TG*](https://t.me/android12begonia/1410)  |
+
 
 
 Android 12.1 / Android 12L (API 32)
 ---
-List is under maintance
+| Maintainer<br> |       ROM       |                       Download<br>                       | Notes<br> |                    Changelog<br>                     |
+| :------------------: | :-------------: | :----------------------------------------------------------: | :---------------------------------------: | :----------------------------------------------------------: |
+|      *Attila*      |   **PixyOS** | [*v12.1*](https://drive.google.com/uc?id=13MH0TkpWGNKFJcUvZfuBn0tHgzp0vSvS&export=download) | - Use default fixes from the channel  | [*TG*](https://t.me/android12begonia/1410)  |
 
 Android 12 (API 31)
 ---
