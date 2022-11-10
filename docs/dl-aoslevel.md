@@ -25,7 +25,7 @@ Android 12.1 / Android 12L (API 32)
 ---
 | Maintainer<br> |       ROM       |                       Download<br>                       | Notes<br> |                    Changelog<br>                     |
 | :------------------: | :-------------: | :----------------------------------------------------------: | :---------------------------------------: | :----------------------------------------------------------: |
-|      *Attila*      |   **PixyOS** | [*v12.1*](https://drive.google.com/uc?id=13MH0TkpWGNKFJcUvZfuBn0tHgzp0vSvS&export=download) | - Use default fixes from the channel  | [*TG*](https://t.me/android12begonia/1410)  |
+|      *Attila*      |   **PixyOS** | [*v12.1*](https://drive.google.com/uc?id=13MH0TkpWGNKFJcUvZfuBn0tHgzp0vSvS&export=download) | - Use default fixes from the channel [here](https://teletype.in/@alion90/Y50WHjw3_4G)  | [*TG*](https://t.me/android12begonia/1410)  |
 
 Android 12 (API 31)
 ---
