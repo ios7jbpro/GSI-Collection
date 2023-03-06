@@ -15,7 +15,7 @@ Hello there.
 What is this?
 ---
 
-- This is a project to collect GSIs for codename begonia, you can download and flash them here.
+- This is a project to collect GSIs and ROMs for tested by me for codename begonia, you can download and flash them here.
 
 What is GSI?
 ---
