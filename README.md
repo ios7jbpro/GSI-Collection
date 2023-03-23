@@ -1,5 +1,4 @@
-# GSI Collection | 通用系統映像合集
+# GSI Collection |
 
-- Project has been moved to [*GitHub Pages*](https://lelenext.github.io/GSI-Collection/).
+- Project has been moved to [*GitHub Pages*](https://ios7jbpro.github.io/GSI-Collection/).
 
-  項目已遷移至 [*GitHub Pages*](https://lelenext.github.io/GSI-Collection/)。
