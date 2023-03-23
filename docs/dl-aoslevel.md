@@ -50,9 +50,13 @@ VoidUI by EreN
 
 **Notes**: 
 • Dirty flash possible (OTA pushed)
+
 • Non-Dynamic
+
 • Gapps included
+
 • Firmware for both indian and global included
+
 • Twrp included
    
    
